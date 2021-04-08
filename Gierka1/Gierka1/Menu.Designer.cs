@@ -77,6 +77,7 @@ namespace Gierka1
             this.ShowInTaskbar = false;
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Menu_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.playBtn)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.scoreBtn)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.exitBtn)).EndInit();
