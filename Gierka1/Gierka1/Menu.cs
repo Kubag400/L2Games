@@ -38,5 +38,19 @@ namespace Gierka1
         {
             this.Close();
         }
+
+        private void Menu_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Space)
+            {
+                playBtn_Click(sender, new EventArgs());
+                e.Handled = true;
+            }
+            if(e.KeyCode==Keys.Escape)
+            {
+                exitBtn_Click(sender, new EventArgs());
+                e.Handled = true;
+            }
+        }
     }
 }
