@@ -10,12 +10,33 @@ using System.Windows.Forms;
 
 namespace Gierka1
 {
-    public partial class Form1 : Form
+    public partial class Menu : Form
     {
-        public Form1()
+        public Menu()
         {
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void playBtn_Click(object sender, EventArgs e)
+        {
+            GameForm newGame = new GameForm();
+            newGame.Show();
+            
+        }
+
+        private void scoreBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exitBtn_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

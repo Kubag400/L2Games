@@ -6,7 +6,6 @@ C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\bin\Debug\net5.0-wi
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\bin\Debug\net5.0-windows\ref\Gierka1.dll
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\bin\Debug\net5.0-windows\Gierka1.pdb
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.csprojAssemblyReference.cache
-C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.Form1.resources
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.csproj.GenerateResource.cache
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.AssemblyInfoInputs.cache
@@ -16,3 +15,6 @@ C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-wi
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\ref\Gierka1.dll
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.pdb
 C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.genruntimeconfig.cache
+C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.Menu.resources
+C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.Properties.Resources.resources
+C:\Users\Kubag\Source\Repos\Kubag400\L2Games\Gierka1\Gierka1\obj\Debug\net5.0-windows\Gierka1.GameForm.resources
