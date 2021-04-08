@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programy\\Gierka1\\Gierka1\\Gierka1.csproj",
+      "projectUniqueName": "C:\\Users\\Kubag\\Source\\Repos\\Kubag400\\L2Games\\Gierka1\\Gierka1\\Gierka1.csproj",
       "projectName": "Gierka1",
-      "projectPath": "D:\\Programy\\Gierka1\\Gierka1\\Gierka1.csproj",
+      "projectPath": "C:\\Users\\Kubag\\Source\\Repos\\Kubag400\\L2Games\\Gierka1\\Gierka1\\Gierka1.csproj",
       "packagesPath": "C:\\Users\\Kubag\\.nuget\\packages\\",
-      "outputPath": "D:\\Programy\\Gierka1\\Gierka1\\obj\\",
+      "outputPath": "C:\\Users\\Kubag\\Source\\Repos\\Kubag400\\L2Games\\Gierka1\\Gierka1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kubag\\AppData\\Roaming\\NuGet\\NuGet.Config",
